@@ -5,7 +5,6 @@ __pycache__/
 */.vscode
 */.pytest_cache
 */.cache
-*/rob_box
 */examples
 */images
 */logs
