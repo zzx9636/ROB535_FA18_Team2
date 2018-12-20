@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.c
+*.so
+*/.vscode
+*/.pytest_cache
+*/.cache
+*/rob_box
+*/examples
+*/images
+*/logs
+*/Weights
