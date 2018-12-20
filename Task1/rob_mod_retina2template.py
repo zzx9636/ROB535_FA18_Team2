@@ -41,7 +41,7 @@ keras.backend.tensorflow_backend.set_session(get_session())
 
 # adjust this to point to your downloaded/trained model
 # models can be downloaded here: https://github.com/fizyr/keras-retinanet/releases
-model_path_train = os.path.join('./', 'snapshots','resnet50_csv_01.h5' )
+#model_path_train = os.path.join('./', 'snapshots','resnet50_csv_01.h5' )
 model_path_inf = os.path.join('./', 'snapshots','resnet50_csv_02_t.h5' )
 ROOT_PATH = '/home/zixu/Extra_Disk/Dataset/ROB535/all/deploy/'
 test_img_list = glob(ROOT_PATH+'test/*/*_image.jpg')
